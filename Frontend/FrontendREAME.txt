@@ -1,0 +1,4 @@
+Todo: 
+Create HTML for structure
+Create CSS for styling
+Create JS for functionality
